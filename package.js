@@ -1,6 +1,6 @@
 Package.describe({
   name: 'cinn:versionen',
-  version: '0.0.2',
+  version: '0.0.3',
   summary: 'Internal version control for Meteor apps',
   git: 'https://github.com/cinn-labs/versionen',
   documentation: 'README.md'
