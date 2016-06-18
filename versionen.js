@@ -1,3 +1,5 @@
+import _ from 'lodash';
+
 Versionen = {
   current: '0.0.0',
   releases: []
